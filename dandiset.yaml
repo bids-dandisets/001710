@@ -9,9 +9,9 @@ access:
   status: dandi:OpenAccess
 assetsSummary:
   approach:
-  - name: microscopy approach; cell population imaging
-    schemaKey: ApproachType
   - name: behavioral approach
+    schemaKey: ApproachType
+  - name: microscopy approach; cell population imaging
     schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_015242
@@ -24,8 +24,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 78080151932
-  numberOfFiles: 139
+  numberOfBytes: 76333415204
+  numberOfFiles: 134
   numberOfSubjects: 23
   schemaKey: AssetsSummary
   species:
@@ -33,10 +33,10 @@ assetsSummary:
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured:
-  - BehavioralTimeSeries
-  - ImagingPlane
-  - OpticalChannel
   - PlaneSegmentation
+  - OpticalChannel
+  - ImagingPlane
+  - BehavioralTimeSeries
   - ProcessingModule
 citation: Plitt, Mark (2026) Plitt & Kaganovsky et al (2026). Hippocampal place code
   plasticity in CA1 requires postsynaptic membrane fusion. doi.org/10.1101/2023.11.20.567978
