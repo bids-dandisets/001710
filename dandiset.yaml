@@ -9,9 +9,9 @@ access:
   status: dandi:OpenAccess
 assetsSummary:
   approach:
-  - name: behavioral approach
-    schemaKey: ApproachType
   - name: microscopy approach; cell population imaging
+    schemaKey: ApproachType
+  - name: behavioral approach
     schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_015242
@@ -20,12 +20,12 @@ assetsSummary:
   measurementTechnique:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 70659867276
-  numberOfFiles: 123
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 71015345732
+  numberOfFiles: 124
   numberOfSubjects: 21
   schemaKey: AssetsSummary
   species:
@@ -35,9 +35,9 @@ assetsSummary:
   variableMeasured:
   - ProcessingModule
   - ImagingPlane
-  - BehavioralTimeSeries
-  - OpticalChannel
   - PlaneSegmentation
+  - OpticalChannel
+  - BehavioralTimeSeries
 citation: Plitt, Mark (2026) Plitt & Kaganovsky et al (2026). Hippocampal place code
   plasticity in CA1 requires postsynaptic membrane fusion. doi.org/10.1101/2023.11.20.567978
   (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001710/draft
