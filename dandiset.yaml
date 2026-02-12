@@ -39,8 +39,8 @@ assetsSummary:
   - ProcessingModule
   - PlaneSegmentation
 citation: Plitt, Mark (2026) Plitt & Kaganovsky et al (2026). Hippocampal place code
-  plasticity in CA1 requires postsynaptic membrane fusion (Version draft) [Data set].
-  DANDI Archive. https://dandiarchive.org/dandiset/001710/draft
+  plasticity in CA1 requires postsynaptic membrane fusion (Version 0.260212.2225)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001710/0.260212.2225
 contributor:
 - affiliation: []
   email: markplitt@gmail.com
@@ -93,12 +93,14 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2026-02-04T03:53:18.654776+00:00'
+datePublished: '2026-02-12T22:25:50.887062+00:00'
 description: Suite2 processed and curated two photon data and associated behavioral
   data included in publication (doi.org/10.1101/2023.11.20.567978). See https://github.com/GiocomoLab/Plitt_Kaganovsky_Stx3_CA1for
   usage details and replication of all figures. Additional data required for replication
   is availabe on Figshare (https://doi.org/10.6084/m9.figshare.31286365)
+doi: 10.48324/dandi.001710/0.260212.2225
 ethicsApproval: []
-id: DANDI:001710/draft
+id: DANDI:001710/0.260212.2225
 identifier: DANDI:001710
 keywords:
 - hippocampus
@@ -109,13 +111,25 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001710/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001710/0.260212.2225/assets.yaml
 name: Plitt & Kaganovsky et al (2026). Hippocampal place code plasticity in CA1 requires
   postsynaptic membrane fusion.
+publishedBy:
+  endDate: '2026-02-12T22:25:50.887062+00:00'
+  id: urn:uuid:f067d3bc-bf4d-4d48-97d6-3d8754205393
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-02-12T22:25:50.887062+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:3f90d399-419b-4f1a-9449-92dbab500953
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/001710/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001710/0.260212.2225
+version: 0.260212.2225
 wasGeneratedBy: []
