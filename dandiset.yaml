@@ -94,8 +94,8 @@ contributor:
   schemaKey: Organization
 dateCreated: '2026-02-04T03:53:18.654776+00:00'
 description: Suite2 processed and curated two photon data and associated behavioral
-  data included in publication (doi.org/10.1101/2023.11.20.567978). See https://github.com/GiocomoLab/Plitt_Kaganovsky_Stx3_CA1for
-  usage details and replication of all figures. Additional data required for replication
+  data included in publication (doi.org/10.1101/2023.11.20.567978). See https://github.com/GiocomoLab/Plitt_Kaganovsky_Stx3_CA1
+  for usage details and replication of all figures. Additional data required for replication
   is availabe on Figshare (https://doi.org/10.6084/m9.figshare.31286365)
 ethicsApproval: []
 id: DANDI:001710/draft
